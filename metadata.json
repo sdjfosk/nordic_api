@@ -1,9 +1,9 @@
 {
-  "id": "9e023c0f-0efe-4e65-b201-b8cda3ec40b7",
+  "id": "7194d7b9-6cab-4aed-a002-37640e6c00c3",
   "schemaVersion": 3,
-  "name": "Comment_Default_Rendering",
+  "name": "Comment_Default_Rendering_Basic",
   "description": "",
-  "nodeType": "Text",
+  "nodeType": "TextList",
   "disableDefaultRendering": false,
   "iconUrl": "design/icon.svg",
   "designEntryPoint": "design/index.html",
